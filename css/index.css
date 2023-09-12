@@ -24,7 +24,7 @@ body {
 .flexcontainer .container {
   border-radius: 1%;
   border: solid 1px #a87fe9;
-  width: 400px;
+  max-width: 400px;
   padding: 16px;
   background-color: rgba(255, 255, 255, 0.6117647059);
 }
