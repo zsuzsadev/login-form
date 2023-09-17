@@ -10,7 +10,7 @@ body {
   padding: 0;
   overflow: hidden;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-image: linear-gradient(rgb(184, 164, 183), rgb(78, 46, 100));
+  background-image: linear-gradient(rgb(255, 255, 255), rgb(154, 101, 189));
 }
 
 .flexcontainer {
@@ -23,7 +23,7 @@ body {
 }
 .flexcontainer .container {
   border-radius: 1%;
-  border: solid 1px #a87fe9;
+  border: solid 1px #2c2538;
   max-width: 400px;
   padding: 16px;
   background-color: rgba(255, 255, 255, 0.6117647059);
